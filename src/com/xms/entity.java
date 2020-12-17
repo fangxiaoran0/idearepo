@@ -29,6 +29,5 @@ public class entity {
         int b = 5+5;
         System.out.println(a==b);
         System.out.println("hello");
-        System.out.println("fangxiaoran");
     }
 }
